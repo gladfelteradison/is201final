@@ -1,9 +1,39 @@
 body {
-    background-image: url(../assets/img/cool-background/png);
+    background-image: url(../assets/img/cool-background.png) ;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
-h5 {
+.gmr {
     font-family: 'Times New Roman', Times, serif;
     color: darkblue;
-    font-size: larger;
+    font-size: xx-large;
+    top: 50px;
+    text-align: center;
+}
+
+.nite {
+    font-family: cursive;
+    color: green;
+    font-size: 50px;
+    position: relative;
+    float: right;
+}
+
+.hurtz{
+    font-size: 150px;
+    position: relative;
+    float: right;
+    right: 250px;
+}
+
+.fort {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    position: relative;
+    top: 500px;
+    text-align: center;
+    color: darkred;
 }
