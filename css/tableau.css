@@ -22,6 +22,14 @@ body {
     float: right;
 }
 
+.nity {
+    font-family:'Times New Roman', Times, serif;
+    color: darkcyan;
+    font-size: 50px;
+    position: relative;
+    left: 30px;
+}
+
 .hurtz{
     font-size: 150px;
     position: relative;
@@ -32,8 +40,35 @@ body {
 .fort {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 50px;
-    position: relative;
-    top: 500px;
     text-align: center;
+    position: relative;
+    float: right;
     color: darkred;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0px;
+    font-family: fantasy;
+    font-size: medium;
+    text-align: center;
+    z-index: 1;
+}
+
+.thanks {
+    font-family: 'Times New Roman', Times, serif;
+    color:goldenrod;
+    font-size: 100px;
+    text-align: center;
+    position:relative;
+    left: 40px;
+}
+
+.thnks {
+    font-family: 'Times New Roman', Times, serif;
+    color:darkcyan;
+    font-size: 100px;
+    text-align: center;
+    position:relative;
+    left: 300px;
 }
